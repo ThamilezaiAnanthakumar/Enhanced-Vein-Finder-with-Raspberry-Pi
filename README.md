@@ -1,8 +1,10 @@
 # Real-Time Image Processing using Raspberry Pi + NoIR Camera + Custom LED PCB
 
-This project presents a complete real-time image acquisition and processing pipeline using a **Raspberry Pi**, **Raspberry Pi NoIR Camera**, and a **custom-designed LED array PCB** for controlled lighting. It uses advanced image processing techniques like **CLAHE**, **adaptive thresholding**, **Otsu’s method**, **morphological operations**, and **contour detection** to highlight areas of interest in grayscale images.
+This project is a complete real-time image capturing and processing system using a Raspberry Pi, a Raspberry Pi NoIR Camera, and a custom-made LED light board for better lighting control. It uses advanced image processing methods such as CLAHE, adaptive thresholding, Otsu’s method, morphological operations, and contour detection to clearly highlight important areas in grayscale images.
 
-Originally based on an ESP32-CAM project, this upgraded system offers more flexibility, accuracy, and image quality.
+At first, this was based on a simpler ESP32-CAM project we did in Semester 2. But after learning more about image processing and computer vision, I decided to improve it using what I had studied. This upgraded system gives better image quality, flexibility, and accuracy. The processed video is shown live on a website that can be viewed on any device connected to the same network as the Raspberry Pi.
+
+In the future, I plan to improve the website to make it more responsive and secure. This system can be used as a real-time screen for nurses to clearly see veins and help guide needle placement more accurately.
 
 ---
 
