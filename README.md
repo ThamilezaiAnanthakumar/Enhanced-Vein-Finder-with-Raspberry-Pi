@@ -8,7 +8,7 @@ Originally based on an ESP32-CAM project, this upgraded system offers more flexi
 
 ## 🧰 Tools & Technologies
 
-- **Raspberry Pi 3/4**
+- **Raspberry Pi 4B**
 - **Raspberry Pi NoIR Camera**
 - **Custom LED Array PCB**
 - **Python 3**
