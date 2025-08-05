@@ -1,2 +1,42 @@
-# Extended-Version-of-Vein-Finder-Using-Raspberry-Pi
-This project uses a Raspberry Pi with a NoIR camera and a custom LED array PCB to perform real-time grayscale image enhancement and object detection. It applies CLAHE, thresholding, and contour detection using OpenCV, enabling accurate segmentation under controlled lighting ; ideal for low-light or biomedical imaging applications.
+# 🎯 Real-Time Image Processing using Raspberry Pi + NoIR Camera + Custom LED PCB
+
+This project presents a complete real-time image acquisition and processing pipeline using a **Raspberry Pi**, **Raspberry Pi NoIR Camera**, and a **custom-designed LED array PCB** for controlled lighting. It uses advanced image processing techniques like **CLAHE**, **adaptive thresholding**, **Otsu’s method**, **morphological operations**, and **contour detection** to highlight areas of interest in grayscale images.
+
+Originally based on an ESP32-CAM project, this upgraded system offers more flexibility, accuracy, and image quality.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Raspberry Pi 3/4**
+- **Raspberry Pi NoIR Camera**
+- **Custom LED Array PCB**
+- **Python 3**
+- **OpenCV**
+- **NumPy**
+- **PiCamera Python Module**
+
+---
+
+## 🖼️ Hardware Setup
+
+| Raspberry Pi + NoIR Camera | Custom LED PCB |
+|----------------------------|----------------|
+| ![Raspberry NoIR Camera](https://raw.githubusercontent.com/your-username/your-repo/main/images/raspberry_pi_noir.jpg) | ![Custom PCB](https://raw.githubusercontent.com/your-username/your-repo/main/images/custom_led_pcb.jpg) |
+
+> 📌 Replace the above links with your actual image URLs uploaded to `images/` folder in your repo.
+
+---
+
+## 🔬 Image Processing Pipeline
+
+1. **CLAHE (Contrast Limited Adaptive Histogram Equalization)**  
+2. **Median & Gaussian Blur for noise suppression**
+3. **Adaptive Thresholding (Mean)**
+4. **Otsu’s Thresholding**
+5. **Morphological Opening**
+6. **Contour Detection and Overlay**
+
+---
+
+
