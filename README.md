@@ -1,4 +1,4 @@
-# 🎯 Real-Time Image Processing using Raspberry Pi + NoIR Camera + Custom LED PCB
+# Real-Time Image Processing using Raspberry Pi + NoIR Camera + Custom LED PCB
 
 This project presents a complete real-time image acquisition and processing pipeline using a **Raspberry Pi**, **Raspberry Pi NoIR Camera**, and a **custom-designed LED array PCB** for controlled lighting. It uses advanced image processing techniques like **CLAHE**, **adaptive thresholding**, **Otsu’s method**, **morphological operations**, and **contour detection** to highlight areas of interest in grayscale images.
 
@@ -24,7 +24,7 @@ Originally based on an ESP32-CAM project, this upgraded system offers more flexi
 |----------------------------|----------------|
 | ![Raspberry NoIR Camera](https://raw.githubusercontent.com/your-username/your-repo/main/images/raspberry_pi_noir.jpg) | ![Custom PCB](https://raw.githubusercontent.com/your-username/your-repo/main/images/custom_led_pcb.jpg) |
 
-> 📌 Replace the above links with your actual image URLs uploaded to `images/` folder in your repo.
+
 
 ---
 
