@@ -22,7 +22,7 @@ Originally based on an ESP32-CAM project, this upgraded system offers more flexi
 
 | Raspberry Pi + NoIR Camera | Custom LED PCB |
 |----------------------------|----------------|
-| ![Raspberry NoIR Camera](https://raw.githubusercontent.com/your-username/your-repo/main/images/raspberry_pi_noir.jpg) | ![Custom PCB](https://raw.githubusercontent.com/your-username/your-repo/main/images/custom_led_pcb.jpg) |
+| ![Raspberry NoIR Camera](https://raw.githubusercontent.com/your-username/your-repo/main/images/raspberry_pi_noir.jpg) | ![Custom PCB](Assets/3D_Vein.jpg) |
 
 
 
