@@ -15,6 +15,7 @@ Originally based on an ESP32-CAM project, this upgraded system offers more flexi
 - **OpenCV**
 - **NumPy**
 - **PiCamera Python Module**
+- **Flask**
 
 ---
 
