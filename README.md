@@ -33,12 +33,13 @@ In the future, I plan to improve the website to make it more responsive and secu
 
 ## 🔬 Image Processing Pipeline
 
-1. **CLAHE (Contrast Limited Adaptive Histogram Equalization)**  
-2. **Median & Gaussian Blur for noise suppression**
-3. **Adaptive Thresholding (Mean)**
-4. **Otsu’s Thresholding**
-5. **Morphological Opening**
-6. **Contour Detection and Overlay**
+1. **Image preprocessing includes CLAHE (Contrast Limited Adaptive Histogram Equalization) for enhanced contrast**  
+2. **Median and Gaussian Blur filters applied for noise suppression.**
+3. **Adaptive Thresholding (Mean) and Otsu’s Thresholding used to segment vein patterns.**
+4. **Morphological Opening performed to remove small artifacts and improve structure clarity**
+5. **Contour Detection and Overlay used to highlight vein boundaries.**
+6. **Enhanced version includes continuous real-time video output with focused vein visualization on screen for monitoring.**
+
 
 ---
 
